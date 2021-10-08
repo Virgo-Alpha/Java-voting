@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=VoteCounter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ VoteCounter\ here.\r\n\ \r\n\ @Benson\ Mugure\ (your\ name)\ \r\n\ @version\ 1(a\ version\ number\ or\ a\ date)\r\n
+comment1.params=candidate1\ candidate2
+comment1.target=VoteCounter(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=VoteCounter()
+comment3.params=
+comment3.target=java.lang.String\ getCandidate1()
+comment4.params=
+comment4.target=java.lang.String\ getCandidate2()
+comment5.params=
+comment5.target=boolean\ getCompleted()
+comment6.params=status
+comment6.target=void\ setCompleted(boolean)
+comment7.params=choice
+comment7.target=java.lang.String\ vote(int)
+comment8.params=
+comment8.target=void\ printResults()
+numComments=9
